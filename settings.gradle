@@ -1,0 +1,4 @@
+include ':reflect'
+include ':lib'
+include ':app'
+rootProject.name = "Handler"
